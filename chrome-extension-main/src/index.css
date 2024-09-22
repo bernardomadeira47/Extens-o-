@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  min-height: 320px;
+  min-width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #920049;
+}
+
+h2 {
+  color: #fff;
+}
+
+form {  
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
